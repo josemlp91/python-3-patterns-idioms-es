@@ -1,0 +1,14 @@
+syntax: glob
+*.pyc
+*.pyo
+*.class
+*~
+*-
+\#*
+\.\#*
+.db
+.svn
+.swp
+_build
+_deltas
+_test
